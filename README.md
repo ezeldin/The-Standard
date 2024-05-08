@@ -4,6 +4,7 @@
 [![The Standard Community](https://img.shields.io/discord/934130100008538142?style=default&color=%237289da&label=The%20Standard%20Community&logo=Discord)](https://discord.gg/vdPZ7hS52X)
 
 Chat with us here on Discord:
+change here first commit
 
 [![Discord](https://discord.com/api/guilds/934130100008538142/widget.png?style=banner2)](https://discord.gg/vdPZ7hS52X)
 
@@ -274,13 +275,15 @@ Chat with us here on Discord:
           - [3.2.1.2.0.4 Organization](https://github.com/hassanhabib/The-Standard/blob/master/3.%20Exposers/3.2%20User%20Interfaces/3.2.1%20Web%20Applications/3.2.1%20Web%20Applications.md#321204-organization)
 
 ## Other Resources
+
 - The Standard [YouTube Playlist](https://www.youtube.com/watch?v=8PveoymxCok&list=PLan3SCnsISTQqmSTZHQbGxBmVDwQdrlub)
-- Guidelines for [C# Coding Standards](https://github.com/hassanhabib/CSharpCodingStandard/blob/master/Readme.md) 
+- Guidelines for [C# Coding Standards](https://github.com/hassanhabib/CSharpCodingStandard/blob/master/Readme.md)
 - [The Team Standard](https://github.com/hassanhabib/The-Standard-Team/blob/main/README.md) is the engineering Standard for team culture, practices and code of conduct.
 - [The Standard for System Design & Architecture](https://github.com/hassanhabib/The-Standard-Systems-Design/blob/main/README.md)
 - [The Standard Codex](https://github.com/hassanhabib/The-Standard-Codex/blob/main/README.md) - It's not enough to know the truth, you must have the courage to wield it into existence.
 
 ## Translations
+
 - [The Standard in Arabic](https://github.com/hassanhabib/The-Standard-Arabic)
 - [The Standard in Ukrainian](https://github.com/hassanhabib/The-Standard-Ukrainian)
 - [The Standard in French](https://github.com/hassanhabib/The-Standard-French)
@@ -301,6 +304,7 @@ Chat with us here on Discord:
 - [The Standard in Azerbaijani](https://github.com/hassanhabib/The-Standard-Azerbaijani)
 
 ## The Standard in Different Programming Languages
+
 - [The Standard in Go](https://github.com/hassanhabib/StandardGoLang)
 - [The Standard in Scala](https://github.com/hassanhabib/StandardScala)
 - [The Standard in R](https://github.com/hassanhabib/StandardR)
@@ -309,6 +313,7 @@ Chat with us here on Discord:
 - [The Standard in Python](https://github.com/hassanhabib/StandardPython)
 
 ## Projects
+
 - [The Standard OpenAI Library](https://github.com/hassanhabib/Standard.AI.OpenAI)
 - [LeVent](https://github.com/hassanhabib/LeVent)
 - [RESTFulSense](https://github.com/hassanhabib/RESTFulSense)
